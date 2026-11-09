@@ -1,6 +1,6 @@
 {
-  "name": "GHPageTemplate",
-  "displayName": "Template Page",
+  "name": "RunnerSalvager",
+  "displayName": "Runner Salvager",
   "private": true,
   "version": "0.0.0",
   "type": "module",

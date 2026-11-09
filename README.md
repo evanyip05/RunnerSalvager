@@ -1,4 +1,4 @@
-# GH Page Template
+# Runner Salvager
 Made using React + Vite + TS <br>
 Set your project's name in **package.json** (the only place to change it): <br>
 - name: GitHub repo name, used for the Vite base path `/name/`
